@@ -1,5 +1,5 @@
 title = "Rosa Maya Garza"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "https://rosagarza.github.io/rosa_portfolio/"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
@@ -39,5 +39,5 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/rgtheesportsfan"
-Name2 = "linkedin"
-Url2 = "https://www.linkedin.com/in/rosa-garza-25a540124/"
+name2 = "linkedin"
+url2 = "https://www.linkedin.com/in/rosa-garza-25a540124/"
